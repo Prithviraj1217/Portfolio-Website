@@ -1,0 +1,16 @@
+.intro-container {
+    height: 70vh;
+    background-color: primary;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    gap: 8px;
+    padding: 10px;
+    transition: background-color 1s ease;
+  }
+  
+  .intro-container button {
+    transition: background-color 1s ease, color 1s ease;
+  }
+  
