@@ -6,10 +6,10 @@ function Sider() {
             <div className="flex flex-col items-center">
                 <div className="flex flex-col gap-3 sm:flex-row">
                     <i class="ri-mail-line text-gray-400 text-xl"></i>
-                    <a href="https://www.linkedin.com/in/prithvi-raj-393434203/">
+                    <a className='Icon-Tags' href="https://www.linkedin.com/in/prithvi-raj-393434203/">
                     <i class="ri-linkedin-box-line text-gray-400 text-xl"></i>
                     </a>
-                    <a href="https://github.com/Prithviraj1217?tab=repositories">
+                    <a className='Icon-Tags' href="https://github.com/Prithviraj1217?tab=repositories">
                     <i class="ri-github-fill text-gray-400 text-xl"></i>
                     </a>
                 </div>

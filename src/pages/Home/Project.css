@@ -1,0 +1,6 @@
+.Projects-Container img {
+    transition: transform 0.3s ease-in-out;
+}
+.Projects-Container img:hover {
+    transform: scale(1)
+}

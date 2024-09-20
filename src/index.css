@@ -23,9 +23,20 @@
 
 i{
     cursor: pointer;
+    transition: transform 0.3s ease-in-out;
 }
 i:hover{
     color: white;
+    transform: scale(2)
+}
+
+.Icon-Tags {
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out;
+}
+.Icon-Tags:hover{
+    color: white;
+    transform: scale(2)
 }
 
 .p{
