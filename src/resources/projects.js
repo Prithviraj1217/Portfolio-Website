@@ -5,17 +5,20 @@ import projectImg3 from "./../assets/Battery.png";
 export const projects = [
     {
         title: "Todo List",
-        description: "Todo List",
+        description: "Write your tasks and notes ",
         link: projectImg1,
+        Redirect: "https://prithviraj1217.github.io/Tasks.github.io/",
     },
     {
         title: "Geo Location API",
-        description: "Geo Location API",
+        description: "See your location",
         link: projectImg2,
+        Redirect: "https://prithviraj1217.github.io/location-api/",
     },
     {
         title: "Battery API",
-        description: "Battery API",
+        description: "Check the battery level of your device",
         link: projectImg3,
+        Redirect: "https://prithviraj1217.github.io/battery-indicator.github.io/",
     },
 ]

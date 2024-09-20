@@ -11,6 +11,11 @@
   }
   
   .intro-container button {
-    transition: background-color 1s ease, color 1s ease;
+    transition: background-color .8s ease, color .8s ease;
   }
-  
+
+.intro-container button:hover {
+    transform: scale(1.1);
+    background-color: #BFA181;
+    color: white;
+}
