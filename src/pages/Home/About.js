@@ -4,10 +4,12 @@ import SectionTitle from "../../components/SectionTitle";
 function About () {
     const skills = [
         "AI/ML",
-        "MERN stack",
-        "MFC Applications (C++, QT)",
+        "Spring Boot",
+        "MERN Stack",
+        "React JS",
         "Big Data Analytics",
         "CI/CD",
+        "MFC Applications (C++, QT)"
     ]
     return (
         <div className="py-10">

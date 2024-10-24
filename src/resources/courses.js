@@ -2,7 +2,7 @@ export const courses = [
     {
         technologies: [],
         title: "Todo List",
-        img: "./../assets/Tasks.png",
+        img: "./../assets/to-do-list.png",
         description: "Todo List",
         link: " ",
     },
